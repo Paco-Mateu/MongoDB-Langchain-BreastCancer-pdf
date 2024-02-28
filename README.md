@@ -1,4 +1,4 @@
-# RAG Example using Vector Search to question about Breast Cancer 
+# RAG Demo to ask about Breast Cancer on top of MongoDB
 This README provides instructions on how to set up and run the code for preparing chat data from PDF files and storing it in your MongoDB Atlas instance. Ensure the instructions are followed accurately for successful execution.
 
 ## Step 1: Create a MongoDB Atlas Instance
